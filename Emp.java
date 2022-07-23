@@ -1,3 +1,4 @@
+
 public class Emp {
 
 	int eid;
@@ -21,6 +22,5 @@ public class Emp {
 	public void setSalary(double salary) {
 		this.salary = salary;
 	}
-	
 	
 }
